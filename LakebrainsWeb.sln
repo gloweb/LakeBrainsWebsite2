@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.1082
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "LakebrainsWeb", "LakebrainsWeb\LakebrainsWeb.csproj", "{90425DA2-C86B-4945-97E3-2AFAD536B45E}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "App", "App\App.csproj", "{F9D1DA23-DCFA-4F91-ACEB-3E640A32556C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CompanyWebsite", "CompanyWebsite\CompanyWebsite.csproj", "{9C34F461-84CB-4B6A-AA45-6FDEBA61F2B3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{90425DA2-C86B-4945-97E3-2AFAD536B45E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{90425DA2-C86B-4945-97E3-2AFAD536B45E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{90425DA2-C86B-4945-97E3-2AFAD536B45E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{90425DA2-C86B-4945-97E3-2AFAD536B45E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F9D1DA23-DCFA-4F91-ACEB-3E640A32556C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F9D1DA23-DCFA-4F91-ACEB-3E640A32556C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F9D1DA23-DCFA-4F91-ACEB-3E640A32556C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F9D1DA23-DCFA-4F91-ACEB-3E640A32556C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9C34F461-84CB-4B6A-AA45-6FDEBA61F2B3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9C34F461-84CB-4B6A-AA45-6FDEBA61F2B3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9C34F461-84CB-4B6A-AA45-6FDEBA61F2B3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9C34F461-84CB-4B6A-AA45-6FDEBA61F2B3}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2A66A13E-4C80-421E-B0DB-332772C19899}
+	EndGlobalSection
+EndGlobal
